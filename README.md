@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @6PateL
-- 👀 I’m interested in C#/Asp.net/WPF/CS/EmguCv/OpenTk/Arduino/network programming
+- 👀 I’m interested in C#/Asp.net/WPF/CS/EmguCv/OpenTk/Arduino/network programming/robotics and electronics
 - 🌱 I’m currently learning C#,Asp.net,C,EmguCv
 
 <!---
